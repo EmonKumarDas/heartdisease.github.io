@@ -1,5 +1,5 @@
 # heartdisease.github.io
 pandas>=0.19
-sklearn
+sklearn==0.0
 scikit-learn>=0.22.1
 streamlit
