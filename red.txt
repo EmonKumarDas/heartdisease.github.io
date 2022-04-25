@@ -1,0 +1,5 @@
+# heartdisease.github.io
+pandas>=0.19
+sklearn
+scikit-learn>=0.22.1
+streamlit
